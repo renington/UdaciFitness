@@ -11,7 +11,7 @@ This project was made as a part of the [React Developer Udacity Nanodegree](http
 - VSCode (Visual Studio Code)
 - Genymotion Emulator
 
-## Running Backend Server
+## Running APP
 ```bash
 $ yarn install
 $ yarn start
